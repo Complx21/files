@@ -20,20 +20,8 @@
     "game": "Avatar Arena"
   },
   {
-    "gameroot": "Backrooms2D/",
-    "game": "Backrooms 2D"
-  },
-  {
-    "gameroot": "Backrooms3D/",
-    "game": "Backrooms 3D"
-  },
-  {
     "gameroot": "BaconMayDie/",
     "game": "Bacon May Die"
-  },
-  {
-    "gameroot": "BaldisBasics/",
-    "game": "Baldis Basics"
   },
   {
     "gameroot": "BasketRandom/",
@@ -194,14 +182,6 @@
   {
     "gameroot": "NBAJam/",
     "game": "NBAJam"
-  },
-  {
-    "gameroot": "NewSuperMarioBros/",
-    "game": "New Super Mario Bros"
-  },
-  {
-    "gameroot": "NutSimulator/",
-    "game": "Nut Simulator"
   },
   {
     "gameroot": "OvO/",
