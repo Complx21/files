@@ -88,10 +88,6 @@
     "game": "Fancy Pants 2"
   },
   {
-    "gameroot": "FridayNightFunkin/",
-    "game": "Friday Night Funkin"
-  },
-  {
     "gameroot": "FunnyShooter2/",
     "game": "Funny Shooter 2"
   },
@@ -310,10 +306,6 @@
   {
     "gameroot": "RiseHigher/",
     "game": "Rise Higher"
-  },
-  {
-    "gameroot": "Roblox/",
-    "game": "Roblox"
   },
   {
     "gameroot": "RockPaperScissors/",
