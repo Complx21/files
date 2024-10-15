@@ -8,10 +8,6 @@
     "game": "2048"
   },
   {
-    "gameroot": "AglebraJump/",
-    "game": "Aglebra Jump"
-  },
-  {
     "gameroot": "AmongUs/",
     "game": "Among Us"
   },
@@ -80,18 +76,6 @@
     "game": "Duck Life 5"
   },
   {
-    "gameroot": "FancyPants/",
-    "game": "Fancy Pants"
-  },
-  {
-    "gameroot": "FancyPants2/",
-    "game": "Fancy Pants 2"
-  },
-  {
-    "gameroot": "FunnyShooter2/",
-    "game": "Funny Shooter 2"
-  },
-  {
     "gameroot": "GeometryDash/",
     "game": "Geometry Dash"
   },
@@ -130,10 +114,6 @@
   {
     "gameroot": "IronSnout/",
     "game": "Iron Snout"
-  },
-  {
-    "gameroot": "Jacksmith/",
-    "game": "Jacksmith"
   },
   {
     "gameroot": "LearnToFly/",
@@ -276,34 +256,6 @@
     "game": "Retro Bowl"
   },
   {
-    "gameroot": "RiddleSchool/",
-    "game": "Riddle School"
-  },
-  {
-    "gameroot": "RiddleSchool2/",
-    "game": "Riddle School 2"
-  },
-  {
-    "gameroot": "RiddleSchool3/",
-    "game": "Riddle School 3"
-  },
-  {
-    "gameroot": "RiddleSchool4/",
-    "game": "Riddle School 4"
-  },
-  {
-    "gameroot": "RiddleSchool5/",
-    "game": "Riddle School 5"
-  },
-  {
-    "gameroot": "RiddleSchoolTransfer/",
-    "game": "Riddle School Transfer"
-  },
-  {
-    "gameroot": "RiddleSchoolTransfer2/",
-    "game": "Riddle School Transfer 2"
-  },
-  {
     "gameroot": "RiseHigher/",
     "game": "Rise Higher"
   },
@@ -358,10 +310,6 @@
   {
     "gameroot": "TossTheTurtle/",
     "game": "Toss The Turtle"
-  },
-  {
-    "gameroot": "Trimps/",
-    "game": "Trimps"
   },
   {
     "gameroot": "TunnelRush/",
